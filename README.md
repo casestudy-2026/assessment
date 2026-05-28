@@ -52,10 +52,10 @@ You are tasked to ingest this data into the sqlite database. The database has th
 ## Section 2: Database design
 
 Describe your considerations for designing the database schema. Your answer should address at minimum:
-•	How you would model the data across the Bronze, Silver, and Gold layers, and what transformations occur at each layer
-•	How you handle the many-to-many relationship between courses and enrolments
-•	What data quality checks or transformations you would apply between layers
-•	How you would design the Gold layer to support efficient analytical queries
+-	How you would model the data across the Bronze, Silver, and Gold layers, and what transformations occur at each layer
+-	How you handle the many-to-many relationship between courses and enrolments
+-	What data quality checks or transformations you would apply between layers
+-	How you would design the Gold layer to support efficient analytical queries
 
 ## Section 3: SQL reporting
 
