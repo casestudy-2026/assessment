@@ -9,12 +9,12 @@ This test is split into 4 sections:
 
 
 ## Submission Guidelines
-Please create a Github repository containing your submission and send us an email containing a link to the repository.
+Please create a Github repository containing your submission and send us an email containing a link to the repository. While we do not discourage the use of AI, we would appreciate if you submit your individual reasoning particularly for sections 2 and 4. If using AI, explain how you would prompt AI what was the response you got and how you would apply that to the problem statement on hand. 
 
 Dos:
 - Frequent commits
 - Descriptive commit messages
-- Clear documentation
+- Clear documentation of your reasoning and intent
 - Comments in your code
 
 Donts:
@@ -22,6 +22,7 @@ Donts:
 - Submitting a zip file
 - Sparse or absent documentation
 - Code which is hard to read
+- Direct output from AI models without curation
 
 ## Section 1: Data ingestion pipeline
 
